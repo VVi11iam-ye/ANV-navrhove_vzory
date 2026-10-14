@@ -1,3 +1,5 @@
+package Singleton;
+
 public class CafeConfig {
     private static CafeConfig instance;
 
